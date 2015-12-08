@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtNET.Web", "ExtNET.Web\ExtNET.Web.csproj", "{45DE6D8F-8480-4DAE-8B87-47683DE95CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtNET.DAL", "ExtNET.DAL\ExtNET.DAL.csproj", "{A0F6E44D-08FD-45C5-B475-03C91CE663EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtNET.Common", "ExtNET.Common\ExtNET.Common.csproj", "{0367FC6F-EAE2-44C3-852E-1AAFFB759EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45DE6D8F-8480-4DAE-8B87-47683DE95CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DE6D8F-8480-4DAE-8B87-47683DE95CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DE6D8F-8480-4DAE-8B87-47683DE95CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DE6D8F-8480-4DAE-8B87-47683DE95CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F6E44D-08FD-45C5-B475-03C91CE663EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F6E44D-08FD-45C5-B475-03C91CE663EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F6E44D-08FD-45C5-B475-03C91CE663EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F6E44D-08FD-45C5-B475-03C91CE663EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0367FC6F-EAE2-44C3-852E-1AAFFB759EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0367FC6F-EAE2-44C3-852E-1AAFFB759EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0367FC6F-EAE2-44C3-852E-1AAFFB759EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0367FC6F-EAE2-44C3-852E-1AAFFB759EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
